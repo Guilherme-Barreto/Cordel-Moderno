@@ -55,6 +55,7 @@ section.imagem {
     box-shadow: inset 6px 6px 13px 0px #0000005e;
     background-size: cover;
     background-attachment: fixed;
+    background-position: 100% 100%;
 }
 section.imagem > p{
     background: #15151571;
